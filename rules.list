@@ -37,6 +37,8 @@
 *://*.youtube.com/*
 *://*.ytimg.com/*
 
+*://*.z-library.sk/*
+
 [regexp]
 
 #END
