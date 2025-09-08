@@ -22,18 +22,20 @@
 
 *://*.jenkins.io/*
 
+*://*.proton.me/*
+
 *://*.sourceforge.net/*
 *://*.stackoverflow.com/*
 *://*.startpage.com/*
 
 
-*://*.youtube.com/*
-*://*.ytimg.com/*
-
 *://*.usercontent.goog/*
 *://*.vultr.com/*
 *://*.wordpress.com/*
 *://*.x.com/*
+
+*://*.youtube.com/*
+*://*.ytimg.com/*
 
 [regexp]
 
