@@ -8,18 +8,25 @@
 
 
 
+*://*.aboluowang.com/*
 *://*.amazon.com/*
 *://*.amazonaws.com/*
+*://*.anyrecover.com/*
 
 *://*.battle.net/*
 *://*.blogspot.com/*
 
 *://*.chatgpt.com/*
 
+*://*.facebook.com/*
+
 *://*.github.io/*
 *://*.github.com/*
 *://*.google.com/*
+*://*.googleapis.com/*
+*://*.googleusercontent.com/*
 *://*.googlevideo.com/*
+*://*.gravatar.com/*
 *://*.gstatic.com/*
 
 *://*.jenkins.io/*
@@ -33,12 +40,21 @@
 *://*.sourceforge.net/*
 *://*.stackoverflow.com/*
 *://*.startpage.com/*
+*://*.steamcommunity.com/*
+*://*.superuser.com/*
 
+*://*.t.me/*
 *://*.telegram.org/*
+*://*.telegram.me/*
 
 *://*.usercontent.goog/*
+
 *://*.vultr.com/*
+
+
+*://*.wikipedia.org/*
 *://*.wordpress.com/*
+
 *://*.x.com/*
 
 *://*.youtube.com/*
